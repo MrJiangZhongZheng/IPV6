@@ -1,17 +1,22 @@
-enp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.27.83.82  netmask 255.255.192.0  broadcast 172.27.127.255
+        inet6 2001:da8:a801:69b2:d18c:a43:cc9b:56f9  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:a801:69b2::a19  prefixlen 128  scopeid 0x0<global>
+        inet6 2001:da8:a801:69b2:937a:7f19:8a34:3a85  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::23d7:9b4e:4390:bad5  prefixlen 64  scopeid 0x20<link>
         ether 04:d9:f5:06:2e:31  txqueuelen 1000  (以太网)
-        RX packets 0  bytes 0 (0.0 B)
+        RX packets 141  bytes 20405 (20.4 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 0  bytes 0 (0.0 B)
+        TX packets 99  bytes 13318 (13.3 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (本地环回)
-        RX packets 118  bytes 9384 (9.3 KB)
+        RX packets 170  bytes 13614 (13.6 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 118  bytes 9384 (9.3 KB)
+        TX packets 170  bytes 13614 (13.6 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2019-09-05 21:55:59
+2019-09-06 15:42:13
