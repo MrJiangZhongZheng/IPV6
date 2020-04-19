@@ -2,18 +2,18 @@ enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.1.107  netmask 255.255.255.0  broadcast 192.168.1.255
         inet6 fe80::23d7:9b4e:4390:bad5  prefixlen 64  scopeid 0x20<link>
         ether 04:d9:f5:06:2e:31  txqueuelen 1000  (以太网)
-        RX packets 3  bytes 710 (710.0 B)
+        RX packets 6  bytes 890 (890.0 B)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 46  bytes 5335 (5.3 KB)
+        TX packets 45  bytes 5518 (5.5 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (本地环回)
-        RX packets 125  bytes 9799 (9.7 KB)
+        RX packets 126  bytes 9800 (9.8 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 125  bytes 9799 (9.7 KB)
+        TX packets 126  bytes 9800 (9.8 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2020-04-18 14:04:50
+2020-04-20 02:30:00
