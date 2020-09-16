@@ -9,9 +9,9 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (本地环回)
-        RX packets 128  bytes 10042 (10.0 KB)
+        RX packets 128  bytes 10090 (10.0 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 128  bytes 10042 (10.0 KB)
+        TX packets 128  bytes 10090 (10.0 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2020-09-14 20:36:53
+2020-09-16 08:03:03
