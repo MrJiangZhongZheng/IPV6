@@ -1,22 +1,22 @@
 enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 172.27.93.249  netmask 255.255.192.0  broadcast 172.27.127.255
+        inet6 2001:da8:a801:69b2:81f9:b656:bf21:ddbc  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:a801:69b2:937a:7f19:8a34:3a85  prefixlen 64  scopeid 0x0<global>
         inet6 fe80::23d7:9b4e:4390:bad5  prefixlen 64  scopeid 0x20<link>
         inet6 2001:da8:a801:69b2::5d2  prefixlen 128  scopeid 0x0<global>
-        inet6 2001:da8:a801:69b2:937a:7f19:8a34:3a85  prefixlen 64  scopeid 0x0<global>
-        inet6 2001:da8:a801:69b2:6c5c:c3f6:16f6:96f4  prefixlen 64  scopeid 0x0<global>
         ether 04:d9:f5:06:2e:31  txqueuelen 1000  (以太网)
-        RX packets 190  bytes 48740 (48.7 KB)
+        RX packets 230  bytes 47739 (47.7 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 170  bytes 22260 (22.2 KB)
+        TX packets 171  bytes 21535 (21.5 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (本地环回)
-        RX packets 149  bytes 11765 (11.7 KB)
+        RX packets 148  bytes 11679 (11.6 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 149  bytes 11765 (11.7 KB)
+        TX packets 148  bytes 11679 (11.6 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2020-12-20 17:24:18
+2020-12-30 17:45:51
